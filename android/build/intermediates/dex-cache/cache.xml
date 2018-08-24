@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/user/.android/build-cache/e1cc4ac9315ee36eaa15e6f9d857b372542ec0da/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/user/cardScroll/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_98c48877fa8a99ea890d8e2bf7c5b7079db3c05a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/.android/build-cache/e1cc4ac9315ee36eaa15e6f9d857b372542ec0da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/user/cardScroll/android/app/build/intermediates/pre-dexed/debug/classes_41696a73f56a500896681937e19efbf1ebea21a0.jar" />
+    </item>
+
+</items>
